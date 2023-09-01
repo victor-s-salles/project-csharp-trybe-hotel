@@ -1,0 +1,7 @@
+/Users/victorsalles/Trybe/Projetos/csharp-026-csharp-projeto-trybe-hotel-fase-d/src/TrybeHotel/obj/Debug/net6.0/TrybeHotel.csproj.AssemblyReference.cache
+/Users/victorsalles/Trybe/Projetos/csharp-026-csharp-projeto-trybe-hotel-fase-d/src/TrybeHotel/obj/Debug/net6.0/TrybeHotel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorsalles/Trybe/Projetos/csharp-026-csharp-projeto-trybe-hotel-fase-d/src/TrybeHotel/obj/Debug/net6.0/TrybeHotel.AssemblyInfoInputs.cache
+/Users/victorsalles/Trybe/Projetos/csharp-026-csharp-projeto-trybe-hotel-fase-d/src/TrybeHotel/obj/Debug/net6.0/TrybeHotel.AssemblyInfo.cs
+/Users/victorsalles/Trybe/Projetos/csharp-026-csharp-projeto-trybe-hotel-fase-d/src/TrybeHotel/obj/Debug/net6.0/TrybeHotel.csproj.CoreCompileInputs.cache
+/Users/victorsalles/Trybe/Projetos/csharp-026-csharp-projeto-trybe-hotel-fase-d/src/TrybeHotel/obj/Debug/net6.0/TrybeHotel.MvcApplicationPartsAssemblyInfo.cs
+/Users/victorsalles/Trybe/Projetos/csharp-026-csharp-projeto-trybe-hotel-fase-d/src/TrybeHotel/obj/Debug/net6.0/TrybeHotel.MvcApplicationPartsAssemblyInfo.cache
