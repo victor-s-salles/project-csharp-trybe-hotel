@@ -25,6 +25,7 @@ namespace TrybeHotel.Controllers
         [Authorize(Policy = "Client")]
         public IActionResult Add([FromBody] BookingDtoInsert bookingInsert)
         {
+
             return Created("", _repository.Add(bookingInsert, User.FindFirst(ClaimTypes.Email).Value));
         }
 
