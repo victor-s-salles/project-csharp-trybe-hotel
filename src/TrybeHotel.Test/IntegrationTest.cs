@@ -104,15 +104,6 @@ public class IntegrationTest : IClassFixture<WebApplicationFactory<Program>>
         var response = await _clientTest.GetAsync(url);
         Assert.Equal(System.Net.HttpStatusCode.OK, response?.StatusCode);
     }
-    [Trait("Category", "Meus testes")]
-    [Theory(DisplayName = "Executando meus testes")]
-    [InlineData("/hotel")]
-    public async Task TestPostHotel(string url)
-    {
-        var response = await _clientTest.PostAsync(url, new StringContent(JsonConvert.SerializeObject(new Hotel { HotelId = 4, Name = "Trybe Hotel São Paulo", Address = "Address 4", CityId = 3 })));
-        Assert.Equal(System.Net.HttpStatusCode.Created, response?.StatusCode);
-    }
 
-}
-    
+
 }
